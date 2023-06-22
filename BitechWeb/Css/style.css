@@ -1,0 +1,25 @@
+::-moz-selection {
+    background-color: #bbff00;
+    color: #222228;
+  }
+  ::selection {
+    background-color: #bbff00;
+    color: #222228;
+  }
+  
+  ::-webkit-scrollbar {
+    background: #222228;
+    width: 5px;
+  }
+  
+  ::-webkit-scrollbar-track {
+    background-color: #222228;
+  }
+  
+  ::-webkit-scrollbar-thumb {
+    background-color: #bbff00;
+  }
+  body{
+    background-color: #222228;
+    color: #e4e4e4;
+  }
